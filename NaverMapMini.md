@@ -21,7 +21,7 @@ MVC 디자인 Pattern을 사용하여 Application 을 구현하였습니다.
 
 ## Application 시작
 
-<img src="https://user-images.githubusercontent.com/16497594/103216517-9a070380-4959-11eb-8c58-f2f38580fbe4.mp4" alt="start View" style="zoom: 25%;" />
+<img src="https://user-images.githubusercontent.com/16497594/103250862-61971200-49b9-11eb-9adc-97cee54ae951.gif" alt="start View" style="zoom: 33%;" />
 
 
 ```Swift
